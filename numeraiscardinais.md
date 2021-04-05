@@ -30,7 +30,7 @@ Número | Português | Italiano
 Diferente da língua portuguesa, os números em italiano _normalmente_ são uma única palavra:
 
 Número | Português         | Italiano
-:----: | :---------------: | :--------:
+:----: | :------------ --: | :--------:
 21     | vinte e um        | ventuno
 22     | vinte e dois      | ventidue
 23     | vinte e três      | ventitrè
