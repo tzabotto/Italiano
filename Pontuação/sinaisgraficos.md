@@ -1,34 +1,34 @@
-# Sinais de pontuação (Punteggiatura)
+# Sinais de pontuaÃ§Ã£o (Punteggiatura)
 
-**Pontuação** é um ramo ou recurso da ortografia que permite expressar exclusivamente na língua escrita um espectro de matizes rítmicas e melódicas características da língua falada, pelo uso de um conjunto sistematizado de sinais sintáticos (sinais gráficos e não gráficos) - ou seja, a pontuação têm, por finalidade, assinalar as pausas e as entonações da linguagem falada na linguagem escrita, separando expressões e orações que precisam ser destacadas. Os **sinais de pontuação** são marcações gráficas que servem para compor a coesão e a coerência textual além de ressaltar a clareza e especificidades semânticas e pragmáticas. Tanto a língua portuguesa quanto a língua italiana são 
+**PontuaÃ§Ã£o** Ã© um ramo ou recurso da ortografia que permite expressar exclusivamente na lÃ­ngua escrita um espectro de matizes rÃ­tmicas e melÃ³dicas caracterÃ­sticas da lÃ­ngua falada, pelo uso de um conjunto sistematizado de sinais sintÃ¡ticos (sinais grÃ¡ficos e nÃ£o grÃ¡ficos) - ou seja, a pontuaÃ§Ã£o tÃªm, por finalidade, assinalar as pausas e as entonaÃ§Ãµes da linguagem falada na linguagem escrita, separando expressÃµes e oraÃ§Ãµes que precisam ser destacadas. Os **sinais de pontuaÃ§Ã£o** sÃ£o marcaÃ§Ãµes grÃ¡ficas que servem para compor a coesÃ£o e a coerÃªncia textual alÃ©m de ressaltar a clareza e especificidades semÃ¢nticas e pragmÃ¡ticas. Tanto a lÃ­ngua portuguesa quanto a lÃ­ngua italiana sÃ£o 
 
-## Sinais gráficos
+## Sinais grÃ¡ficos
 
-Sinais de pontuação         | Português                                   |Italiano
+Sinais de pontuaÃ§Ã£o         | PortuguÃªs                                   |Italiano
 :-------------------------: | :-----------------------------------------: | :-----------------:
-’ '                         | apóstrofo                                   | apóstrofo
-()                          | parênteses                                  | parentesi tonde
+â€™ '                         | apÃ³strofo                                   | apÃ³strofo
+()                          | parÃªnteses                                  | parentesi tonde
 [ ]                         | colchetes                                   | parentesi quadre
 {}                          | chaves                                      | parentesi graffe
 :                           | dois pontos                                 | due punti
-,                           | vírgula                                     | virgola
-—                           | travessão                                   | lineetta di citazione ou barra orizzontale
--                           | hífen                                       | tratto d'unione, trattino
-… ... . . .                 | reticências                                 | punti di sospensione
+,                           | vÃ­rgula                                     | virgola
+â€”                           | travessÃ£o                                   | lineetta di citazione ou barra orizzontale
+(-)                         | hÃ­fen                                       | tratto d'unione, trattino
+â€¦ ... . . .                 | reticÃªncias                                 | punti di sospensione
 .                           | ponto final                                 | punto fermo
-!                           | ponto de exclamação                    	  | punto esclamativo
-¡                           | ponto de exclamação invertido               | punto esclamativo capovolto
-?                           | ponto de interrogação                       | punto interrogativo
-¿                           | ponto de interrogação invertido             | punto interrogativo capavolto
+!                           | ponto de exclamaÃ§Ã£o                    	    | punto esclamativo
+Â¡                           | ponto de exclamaÃ§Ã£o invertido               | punto esclamativo capovolto
+?                           | ponto de interrogaÃ§Ã£o                       | punto interrogativo
+Â¿                           | ponto de interrogaÃ§Ã£o invertido             | punto interrogativo capavolto
 ~                           | til                                         | tilde
-;                           | ponto e vírgula                             | punto e virgola
+;                           | ponto e vÃ­rgula                             | punto e virgola
 /                           | barra                                       | barra
-‘’                          | aspas                                       | virgolette alte singole, virgolette inglesi ou apici singoli
-“”                          | aspas                                       | virgolette alte doppie, virgolette italiane ou apici doppi
-«»                          | aspas                                       | virgolette basse doppie, virgolette francesi, sergenti  ou caporali
+â€˜â€™                          | aspas                                       | virgolette alte singole, virgolette inglesi ou apici singoli
+â€œâ€                          | aspas                                       | virgolette alte doppie, virgolette italiane ou apici doppi
+Â«Â»                          | aspas                                       | virgolette basse doppie, virgolette francesi, sergenti  ou caporali
 
 
 
-### Observações
-* Em **Portugal**, usam-se tradicionalmente as aspas angulares (ex. «aspas» e ‹aspas›). São as aspas da tradição latina, usadas normalmente pelos tipógrafos. É essa também a representação escolhida para a ilustração de aspas em obras de referência e é essa também a representação escolhida de alguns sítios dedicados à língua portuguesa. No entanto, cresce em Portugal o uso das aspas curvas (ex. “aspas” e ‘aspas’), provavelmente à ubiquidade da língua inglesa e devido à incapacidade de algumas máquinas (telefones móveis, caixas registradoras, impressoras específicas, calculadoras etc.) de representar as aspas angulares;
-* No Brasil, porém, o uso de aspas angulares é pouco conhecido, usando-se quase somente as aspas curvas, “aspas” e ‘aspas’. Isso pode ser verificado, por exemplo, na diferença entre um teclado PT-PT (que tem tecla específica para « e para ») e um teclado PT-BR.
+### ObservaÃ§Ãµes
+* Em **Portugal**, usam-se tradicionalmente as aspas angulares (ex. Â«aspasÂ» e â€¹aspasâ€º). SÃ£o as aspas da tradiÃ§Ã£o latina, usadas normalmente pelos tipÃ³grafos. Ã‰ essa tambÃ©m a representaÃ§Ã£o escolhida para a ilustraÃ§Ã£o de aspas em obras de referÃªncia e Ã© essa tambÃ©m a representaÃ§Ã£o escolhida de alguns sÃ­tios dedicados Ã  lÃ­ngua portuguesa. No entanto, cresce em Portugal o uso das aspas curvas (ex. â€œaspasâ€ e â€˜aspasâ€™), provavelmente Ã  ubiquidade da lÃ­ngua inglesa e devido Ã  incapacidade de algumas mÃ¡quinas (telefones mÃ³veis, caixas registradoras, impressoras especÃ­ficas, calculadoras etc.) de representar as aspas angulares;
+* No Brasil, porÃ©m, o uso de aspas angulares Ã© pouco conhecido, usando-se quase somente as aspas curvas, â€œaspasâ€ e â€˜aspasâ€™. Isso pode ser verificado, por exemplo, na diferenÃ§a entre um teclado PT-PT (que tem tecla especÃ­fica para Â« e para Â») e um teclado PT-BR.
